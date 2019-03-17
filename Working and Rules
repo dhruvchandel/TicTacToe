@@ -1,0 +1,13 @@
+Working : 
+   1. This game is a 2 player game where each player has his/her sign of representation in the game which is either 'O' or 'X' 
+   2. The Game will initially ask player 1 to ask his/her sign of represenation in the game and autmatically assign the 
+      other sign to the player 2 .
+   3. Moves in game are entered with help of numbers from 1-9 inclusive of 1 and 9 , where the board represntation in form
+      of numbers is similar to tht of a T9 keypad.
+   4. 
+Rules :
+   1. Player Who will first complete consecutive 3 in a row sign of representations , either horizontally , vertically or 
+      diagonally will win and get a samosa dinner .
+   2. No player can overwrite any other players's or his own move , which has been previously played on that some position.
+   3. If all 9 boxex get filled and no player is able to complete his/her 3 consecutive sugns of represntation , then 
+      the game results in a TIE .
